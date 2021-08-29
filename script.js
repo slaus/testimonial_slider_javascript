@@ -38,8 +38,6 @@ window.addEventListener('DOMContentLoaded', function(event) {
                 liTags[slideIndex].classList.add('active');
                 messageTags[slideIndex].classList.add('active');
             });
-    
-            
         }
     
         showSlides(slideIndex);
